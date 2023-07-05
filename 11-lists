@@ -1,0 +1,8 @@
+# List files in the current directory in long format
+ls -al
+
+# List files in the parent directory of the working directory in long format
+ls -al ..
+
+# List files in the /boot directory in long format
+ls -al /boot

@@ -1,0 +1,5 @@
+# Get the user's home directory using the tilde (~) expansion
+home_dir=~
+
+# Change the working directory to the user's home directory
+cd "$home_dir"
